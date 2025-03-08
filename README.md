@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shauryavardhanm
-- 👀 I’m interested in learning basics of coding 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on basics projects 
+- 👀 I’m interested in learning advanced ML 
+- 🌱 I’m currently working on Application of ML in Sat Com
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: shauryavardhanm@gmail.com
 
 <!---
